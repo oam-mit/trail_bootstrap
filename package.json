@@ -1,0 +1,30 @@
+{
+  "name": "cricket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omkar",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "description": "Practice",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.14.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oam-mit/bootstrap_attempt.git"
+  },
+  "keywords": [
+    "Bootstrap"
+  ],
+  "bugs": {
+    "url": "https://github.com/oam-mit/bootstrap_attempt/issues"
+  },
+  "homepage": "https://github.com/oam-mit/bootstrap_attempt#readme"
+}
